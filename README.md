@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jeffbouche5/jeffbouche5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠️ Profil en cours de restructuration
 
-Here are some ideas to get you started:
+![Status](https://img.shields.io/badge/Statut-Refonte_en_cours-blue?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je procède actuellement à une refonte de mes dépôts afin de standardiser la structure de mes projets, nettoyer le versionnement et documenter mon code.
+
+Les projets complets et documentés seront remis en visibilité publique prochainement.
+
+---
+
+💼 **Contact :** [Ton adresse email] · [Ton LinkedIn si tu en as un]
+
+</div>
