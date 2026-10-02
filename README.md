@@ -10,6 +10,6 @@ Les projets complets et documentés seront remis en visibilité publique prochai
 
 ---
 
-💼 **Contact :** [Ton adresse email] · [Ton LinkedIn si tu en as un]
+💼 **Contact :** jeff.bouche@outlook.fr · [LinkedIn](https://www.linkedin.com/in/jeff-bouche-667b112b7/?isSelfProfile=true)
 
 </div>
